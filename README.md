@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Languages and Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,cs,kotlin,js,python,scss,docker,tailwind,typescript,postgres,firebase,heroku,laravel" />
+</div>
+
+<h2>GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravakaikai&layout=compact&theme=material-palenight&count_private=true&show_icons=true&langs_count=8&hide=html,css,blade" />
+ </div>
+ 
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Bravakaikai&count_private=true&show_icons=true&theme=material-palenight" />
+ </div>
