@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>Languages and Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,cs,dotnet,kotlin,js,html,css,scss,tailwind,bootstrap,python,docker,postgres,firebase,heroku" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,cs,dotnet,kotlin,js,html,css,scss,tailwind,python,docker,postgres,firebase" />
 </div>
 
 <h2>GitHub Stats</h2>
