@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div>
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,html,css,scss,tailwind" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,scss,tailwind" />
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,spring,php,laravel,python" />
+  <img src="https://skillicons.dev/icons?i=laravel,python,kotlin,spring,cs,dotnet,rabbitmq" />
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" />
   <h3>DevOps</h3>
