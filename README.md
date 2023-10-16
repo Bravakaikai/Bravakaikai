@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravakaikai&layout=compact&theme=material-palenight&count_private=true&show_icons=true&langs_count=8&hide=html,css,blade" />
- <img src="https://github-readme-stats.vercel.app/api?username=Bravakaikai&count_private=true&show_icons=true&theme=material-palenight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bravakaikai&count_private=true&show_icons=true&theme=material-palenight" /> -->
 </div>
